@@ -1,0 +1,27 @@
+{
+  "name": "password-generator",
+  "version": "1.0.0",
+  "description": "Create random **passwords** using the password **generator** tool.",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server ./ -p 8282",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moisesisaias/password-generator.git"
+  },
+  "keywords": [
+    "password",
+    "generator"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moisesisaias/password-generator/issues"
+  },
+  "homepage": "https://github.com/moisesisaias/password-generator#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
